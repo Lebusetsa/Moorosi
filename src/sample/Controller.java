@@ -49,7 +49,6 @@ public class Controller {
 
     @FXML
     void Reset(ActionEvent event) {
-
          // clear the number and reset it to 0
           Number.setText(String.valueOf(number=0));
     }
